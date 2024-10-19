@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴍɪsʜ ダ ᴍᴜsɪᴄ 
+    ──「 ᴋʀɪsʜ ダ ᴍᴜsɪᴄ 
 <p align="center">
   <img src="https://i.ibb.co/2FSqhSr/photo-2024-09-19-18-33-46-7416425646991081500.jpg">
 </p>
