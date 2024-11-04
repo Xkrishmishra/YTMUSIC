@@ -1,4 +1,4 @@
-##!/bin/bash
+#!/bin/bash
 
 pprint (){
 	cred='\033[0;31m'
