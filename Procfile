@@ -1,1 +1,2 @@
 worker: bash start
+u
