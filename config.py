@@ -40,7 +40,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/krishnetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/zxchat2")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/KrishSupport")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -78,14 +78,14 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/2FSqhSr/photo-2024-09-19-18-33-46-7416425646991081500.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/pkb4yb.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://envs.sh/Tcy.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/pkb4yb.jpg"
 )
-PLAYLIST_IMG_URL = "https://envs.sh/Tcy.jpg"
-STATS_IMG_URL = "https://envs.sh/Tcy.jpg"
-TELEGRAM_AUDIO_URL = "https://envs.sh/Tcy.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/pkb4yb.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/pkb4yb.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/pkb4yb.jpg"
 TELEGRAM_VIDEO_URL = "https://envs.sh/Tcy.jpg"
 STREAM_IMG_URL = "https://envs.sh/Tcy.jpg"
 SOUNCLOUD_IMG_URL = "https://envs.sh/Tcy.jpg"
