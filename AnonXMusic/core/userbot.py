@@ -72,7 +72,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("zxchat2")
+                await self.two.join_chat("krishsupport")
                 await self.two.join_chat("krishnetwork")
             except:
                 pass
@@ -93,7 +93,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("zxchat2")
+                await self.three.join_chat("krishsupport")
                 await self.three.join_chat("krishnetwork")
             except:
                 pass
@@ -114,7 +114,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("zxchat2")
+                await self.four.join_chat("Krishsupport")
                 await self.four.join_chat("krishnetwork")
             except:
                 pass
@@ -135,7 +135,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("zxchat2")
+                await self.five.join_chat("Krishsupport")
                 await self.five.join_chat("krishnetwork")
             except:
                 pass
