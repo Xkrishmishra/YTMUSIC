@@ -1,4 +1,4 @@
-from strings import get_string
+from ...language import get_string
 
 from AnonXMusic import app
 from AnonXMusic.misc import SUDOERS
